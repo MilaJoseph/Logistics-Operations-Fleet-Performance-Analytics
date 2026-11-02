@@ -1,0 +1,4 @@
+Dataset Name: Logistics Operations Database (2022–2024)
+Source: Kaggle
+Dataset URL: https://www.kaggle.com/datasets/yogape/logistics-operations-database
+Dataset Type: Synthetic
